@@ -1,0 +1,1945 @@
+{
+  "videos": [
+    {
+      "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "videoId": "iv-5mZ_9CPY",
+      "channelTitle": "3Blue1Brown",
+      "publishedAt": "2025-07-25T12:14:11Z",
+      "viewCount": 1866519,
+      "likeCount": 60022,
+      "comments": [
+        {
+          "author": "@zzaa-o6c",
+          "text": "good",
+          "publishedAt": "2026-05-21T03:52:38Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@umutcan2599",
+          "text": "yeye for sure we are on the same   page ı get all of it",
+          "publishedAt": "2026-05-19T12:37:34Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@arjavgarg5801",
+          "text": "I don't agree\nMost long form content is unnecessary footage eating\nBasic concept can always be explained in a minute\nIf I already have some knowledge, why should I have to sit through your lecture repeating what I know? What's the point of digital media then.\nDense content banao",
+          "publishedAt": "2026-05-18T16:55:46Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Mars.2024",
+          "text": "This is fascinating! The way you guys simply complex concepts for us ! Thanks a million 🎉",
+          "publishedAt": "2026-05-18T15:01:35Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@MarciLLyTV",
+          "text": "The CLIP embedding explanation here is the clearest I've seen — most people skip past the 'text and image in the same latent space' part without showing what that actually means geometrically. Once you see it, why diffusion models can respond to such diverse prompts starts making real sense instead of feeling like magic.",
+          "publishedAt": "2026-05-15T13:24:20Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@CipherSoundLabs",
+          "text": "But what if all the raises were three dimensional and related to at least 10 variable points in time or reference target variables and you also each one has rejected variables to each one kind of representative it’s like a cell",
+          "publishedAt": "2026-05-15T06:34:12Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@georgethesecond",
+          "text": "I will use LLMs more efficiently when I understand how they work. Thank you for great explanation.",
+          "publishedAt": "2026-05-15T01:35:36Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@ehsanshahini6146",
+          "text": "@3Blue1Brown Nah, it doesn't cut it. You need to grow that baby and make these videos yourself.",
+          "publishedAt": "2026-05-11T04:51:20Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@junepark1003",
+          "text": "Thanks for this!",
+          "publishedAt": "2026-05-10T18:21:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@shalinib108",
+          "text": "6:33  Hah!  I see what you did there.  “i-hat” …..very good!  Probably only physics students will notice, but very cute!😁",
+          "publishedAt": "2026-05-10T14:41:18Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@sampadk04",
+          "text": "I am absolutely mortified by the fact that I wasn’t subscribed to Welch Labs. Extremely high quality content like 3b1b.",
+          "publishedAt": "2026-05-10T00:43:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@KuchiGremlin",
+          "text": "12:52 I know all about this space right here",
+          "publishedAt": "2026-05-09T07:07:16Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@DAWNBASICSOFSCIENCE-ux2gp",
+          "text": "THANKS !",
+          "publishedAt": "2026-05-08T04:10:41Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@hobbified",
+          "text": "Is it fair to assume that the \"phase transition\" in the learned vectors around t=0.4 is because, in the forward diffusion process, t=0.4 is when the majority of samples have \"escaped their neighborhood\" so that you can't reliably guess which \"turning\" of the spiral they originated at?",
+          "publishedAt": "2026-05-07T21:41:57Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@节点更新合集",
+          "text": "最近环境有点变化，很多都受影响，这个暂时还能用，我刚测过。\r\n入口放主页了，自己点。",
+          "publishedAt": "2026-05-07T10:12:00Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@mikeaultmusic9553",
+          "text": "I have walked so many of these videos now, I'd really love 3Blue1Brown or Welch Labs to do a video explaining how music generation works.",
+          "publishedAt": "2026-05-03T04:17:25Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@tyagi_6tushar",
+          "text": "sab log cheap panel leke khud ka channel barbaad kar rahe hai",
+          "publishedAt": "2026-05-02T04:26:30Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@aman_rawat85",
+          "text": "ab samaj aaya kyu views nahi aa rahe the 😵‍💫",
+          "publishedAt": "2026-04-30T05:05:07Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Bionicleheroe",
+          "text": "thanks to you I can hate on generative AI with a better understanding",
+          "publishedAt": "2026-04-28T19:10:31Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@AndrewWatson975",
+          "text": "who else didnt understand a single thing?",
+          "publishedAt": "2026-04-27T06:03:46Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@rezamoosavi71",
+          "text": "THIS IS CRAZZZZY GOOD THIS IS INSANE",
+          "publishedAt": "2026-04-26T19:28:22Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@frantisek9929",
+          "text": "Zaujímavý pohľad na to, ako fungujú AI obrázky a videá. Vďakom Welch Labs za hosťujúce video!",
+          "publishedAt": "2026-04-26T19:09:58Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@СтепанТуголуков-т4л",
+          "text": "entrada con confianza total",
+          "publishedAt": "2026-04-25T00:49:04Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@lillyliu1034",
+          "text": "Just wanted to leave a note that still interested in hearing about the training process and RLHF! Are there gonna be more videos on this topic:)",
+          "publishedAt": "2026-04-24T00:36:07Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@victorbossard9",
+          "text": "Why 14:50 ? Maybe it's the case in N>2 dim. But the exemple in 2d is wrong no ?",
+          "publishedAt": "2026-04-23T21:00:10Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@cockur",
+          "text": "We’re all doomed",
+          "publishedAt": "2026-04-19T01:47:32Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@TwentySix-g9s",
+          "text": "The 'Diffusion' part of diffusion networks is actually the least interesting part about them. It's just how to sample, for images, it's sort of fine-tuned in a 'sneaky' way that looks general but isn't, as you've brilliantly shown, the specific iterative prediction, getting 'close' but not all converging, works because of the specific to the nature of pixel 2d data as images and human interpretations of these images (until you want the right number of fingers, which works now, again, due to more fine tuning...). Sampling from a distribution in a biased way is interesting and important part of generating images, but it's really just a way to 'show' what the model as understood in training, it's not the hard part of a diffuser, the hard part is the VAE, that's the compression of image space into a way to express it that is robust and allows you to pull from the 'mr potato head' box of image construction techniques that have been learned, that's the key to image generation.",
+          "publishedAt": "2026-04-17T22:34:06Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@megha.dey_88852",
+          "text": "Amazing explanation 🔥 You made complex AI concepts like diffusion models so easy to understand really enjoyed this 👏",
+          "publishedAt": "2026-04-15T11:02:19Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@robnewark7872",
+          "text": "Sooooo how come it cant do fingers? 😂",
+          "publishedAt": "2026-04-09T10:05:26Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@genorpg8397",
+          "text": "I hear multidimensional and brownish motion. Can we get a string theory model in here a get a universe simulation going?",
+          "publishedAt": "2026-04-07T04:39:46Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@carlosvilla6120",
+          "text": "This is high quality.",
+          "publishedAt": "2026-04-07T02:16:18Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@user-g34f23d2se",
+          "text": "Thanks for the video, Welch is a powerful lecturer... Grant, good luck to you and your growing family! Peace.",
+          "publishedAt": "2026-04-05T13:59:18Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@jewsjews-c9k",
+          "text": "this made me feel very stupid",
+          "publishedAt": "2026-04-04T17:36:17Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@issacbona2034",
+          "text": "I am out of words for those fantastic ideas and tries, we need to rethink what our world is made of, illusion? And late congratulations for new baby!",
+          "publishedAt": "2026-04-04T08:10:10Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@s-i-y-n-g",
+          "text": "Russian translation please",
+          "publishedAt": "2026-04-04T01:17:03Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@PXIOMXTIC",
+          "text": "why not just make a model that just point to the mean at the start and attracting feild a little after",
+          "publishedAt": "2026-04-03T21:03:14Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Daniel-t3u9m",
+          "text": "This is very interesting. I was reading an old book maybe in the 2000s in a public library (in the Swedish city Östersund). They have a university, and the book was just a wrong pic. I found it interesting and was waiting for someone, so I was keep reading it. It was a book based on scientific research, no nonsense. There was illustrative pictures about either dreaming or memory, I don't remember exactly. It was pictures that should how  The very interesting thing is this *neural noise* is ACTUALLY similar to how the human memory or dreams gets visually created but documented *noise* in human brains, as I can remember.",
+          "publishedAt": "2026-04-02T02:54:15Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@keonabane",
+          "text": "the fallacy seems to be that these models are learning anything but English usage by early 21st century wealthy Americans and Europeans",
+          "publishedAt": "2026-04-01T15:35:52Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@pop3sail",
+          "text": "I don't usually reply - but you managed to make me understand things in 17 minutes things that eluded me on whole courses",
+          "publishedAt": "2026-03-28T16:58:37Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Lili-d7t1g",
+          "text": "Solid breakdown of the options. Worth mentioning UniFab which handles both real footage and AI-generated content really well. The temporal consistency between frames is what sold me on it.",
+          "publishedAt": "2026-03-27T02:24:11Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@f_set89",
+          "text": "12:50 there's something I don't understand. If a point in this space represents a 2-pixels image, does the spiral represent a sequence of images. If so, what are we actually doing in the rest of the video when we try to reconstruct the spiral?",
+          "publishedAt": "2026-03-26T13:22:29Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@tiny-plum",
+          "text": "I might be misunderstanding something, but I don't think the \"tree in a desert\" example is a fair comparison. If you take a model that was trained with certain code (adding stochastic noise) and you change the code (no noise) while using the weights from the original model, of course the accuracy will be low. You are essentially saying, “What happens if I take a system optimized for one process and run it under a different one?”",
+          "publishedAt": "2026-03-24T15:11:25Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@alexrawlings541",
+          "text": "I thought that it was motion that made you soil yourself involuntarily",
+          "publishedAt": "2026-03-23T23:19:11Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@harshvardhanpandey968",
+          "text": "I hate how much I dont understand this",
+          "publishedAt": "2026-03-18T12:48:43Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@vaishnavikhindkar9444",
+          "text": "such a great explanation damn! thank you so much for the video!",
+          "publishedAt": "2026-03-16T01:53:06Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@JNZ2358",
+          "text": "Cant wait for the next Part in this series",
+          "publishedAt": "2026-03-15T13:47:38Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@hu_nitin_joshi",
+          "text": "oppyee bhai",
+          "publishedAt": "2026-03-14T05:03:43Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@rohitmukherjee1416",
+          "text": "is this like sculpting from a block of stone?",
+          "publishedAt": "2026-03-12T00:44:39Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ruchi_ss",
+          "text": "Love u Tanishk Bro❤",
+          "publishedAt": "2026-03-11T07:08:06Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@PritamPatil-le3fm",
+          "text": "Understood 3%\nEnjoyed 100%\nReaded comments 150%\nWill watch video again 3000%😂",
+          "publishedAt": "2026-03-09T19:17:14Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@nova-IA-dinâmica",
+          "text": "Brilliant!",
+          "publishedAt": "2026-03-08T14:18:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@supmit2k8",
+          "text": "Thank you for the video.",
+          "publishedAt": "2026-03-07T07:52:49Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@goodman3325",
+          "text": "Вы все заблуждаетесь в проектировании , потому что упускает важный момент и сторона наблюдателя. Вы в данном случае наблюдатель , и те образы , которые на ваш взгляд выглядят как спираль , вы воспринимаете плоско с угла обзора, что на самом деле парадоксально, что модель правильно все выполняе , а вы вносите ошибки , если не используете переменную наблюдателя",
+          "publishedAt": "2026-03-06T08:52:48Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@pavelnesterenko9413",
+          "text": "Awesome videos, thanks! So hard topics, so nice picture and explanation",
+          "publishedAt": "2026-03-04T14:00:49Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@itabiritomg",
+          "text": "Amazing vídeo 👏👏👏👏👏👏👏",
+          "publishedAt": "2026-03-03T15:01:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@L.A.N.G.L.E.Y",
+          "text": "Gracias por el Audio en español.",
+          "publishedAt": "2026-03-03T05:23:53Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@markschrammel9513",
+          "text": "This is just unbelievable",
+          "publishedAt": "2026-02-27T05:33:57Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@joeyjamison5772",
+          "text": "\"...One giant gallop for horsekind\"",
+          "publishedAt": "2026-02-26T03:44:19Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@george-vg3jr",
+          "text": "understanding lost due  Academic bull shit.",
+          "publishedAt": "2026-02-23T14:01:19Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@mariacalderon1960",
+          "text": "Entonces escribiendo solo el Guión podría obtener una película completa  ??",
+          "publishedAt": "2026-02-23T12:55:30Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@efrainsanchez771",
+          "text": "Que trabajos tan interesantes, lamentablemente en mi escuela alma matter, el IPN, siguen investigando \"ESTUDIO DE FACTIBILIDAD TECNOLÓGICA PARA EL DESARROLLO. DE SUBPRODUCTOS AGROINDUSTRIALES DERIVADOS DEL NOPAL\" ",
+          "publishedAt": "2026-02-23T04:21:18Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@stout890",
+          "text": "when you explain picture \"similarities\" in the grid structure with rows and columns, i'm having a hard time keeping along. what is similar about the photos other than the agreement to use that grid structure? the vectors represent that combination of photos not similarities. by that i mean, what happens when you rearrange the photos in the grid structure? you get different vectors....so ok than, it's a representation of the chosen photos in the chosen order......but it has nothing to do with the content of the photos other than a text description? the algorithm only knows the photos through the text description and the grid alignment at that point. \n\nso it has nothing to do with the actual image. and still requires human input",
+          "publishedAt": "2026-02-22T19:09:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Tracer73866",
+          "text": "tldr?",
+          "publishedAt": "2026-02-22T18:01:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@miroslawkaras7710",
+          "text": "I undestan the generl concept, but this is really deep. My math knowleage is wey too weak. I may not undestand 90% what said, but I love it. Scieince is amaising.",
+          "publishedAt": "2026-02-22T17:56:07Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@wangxiao3952",
+          "text": "So clearly explained! Thanks a lot!",
+          "publishedAt": "2026-02-22T16:12:04Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@LubomirKubasdQw4w9WgXcQ",
+          "text": "Massive?",
+          "publishedAt": "2026-02-22T15:58:21Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@davidzhu1993",
+          "text": "哥们 你这讲的是啥簧子啊",
+          "publishedAt": "2026-02-22T09:35:13Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@cristopherez",
+          "text": "No entendí nada, me encanta ❤",
+          "publishedAt": "2026-02-21T19:23:19Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@markofiume",
+          "text": "On today's episode of How It's Made: slop",
+          "publishedAt": "2026-02-21T16:37:58Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@scooper72",
+          "text": "This is a powerful intuition for simple classes like “dog, cat, man”, but I can’t quite get my head around what happens when the classifiers are more specific and complex descriptive sentences and paragraphs.  Does this generalize in a straightforward way (i.e. just throw more training data and model parameters at it) or is there another level of magic?",
+          "publishedAt": "2026-02-20T19:12:18Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@mjelves",
+          "text": "So it's magic, got it",
+          "publishedAt": "2026-02-20T11:32:32Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@omsingharjit",
+          "text": "This video actually makes it very easy to understand how difficult it is to understand.😅",
+          "publishedAt": "2026-02-20T05:03:09Z",
+          "likeCount": 48
+        },
+        {
+          "author": "@omsingharjit",
+          "text": "Seems interesting but everything is going overhead 😂",
+          "publishedAt": "2026-02-20T04:48:03Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@RuohongZhao",
+          "text": "watching this video while I am waiting the Seedance 2.0 generating my videos.",
+          "publishedAt": "2026-02-20T04:14:00Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ErwinSalasErwin",
+          "text": "Precioso video.",
+          "publishedAt": "2026-02-18T10:39:41Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@jakubsy",
+          "text": "1:37 so AI is actually a librarian from the Babylon library concept that guides you to a specific photo/book after receiving information about what you are looking for.",
+          "publishedAt": "2026-02-18T07:47:52Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@kurt773",
+          "text": "Please also in German language Audio Track!",
+          "publishedAt": "2026-02-17T11:31:57Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@hoteny",
+          "text": "2:05 why add it back to the noise instead of just feeding it to itself straight away? Is it some kind of a way to make sure ai doesnt go the easy way",
+          "publishedAt": "2026-02-17T09:26:47Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@franksierow5792",
+          "text": "I think I understood a little bit of that. It made me think of the Infinite Improbability Drive, which works (as far as I understand it) by adding an infinite amount of Improbability and then  removing it again.",
+          "publishedAt": "2026-02-16T22:20:06Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@DanDCool",
+          "text": "15:34i dont get how pure randomness can be predicted",
+          "publishedAt": "2026-02-16T20:47:03Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@rohithbharathi3664",
+          "text": "Holy Shit",
+          "publishedAt": "2026-02-15T23:11:26Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Mecharnie_Dobbs",
+          "text": "1:26 I wonder if it would work quicker if you fed the transformer a rorschach ink blot test, instead of noise. Something easier for its imagination to work with.",
+          "publishedAt": "2026-02-14T21:20:29Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@AshutoshDash19",
+          "text": "19:25 Why?\nIf you try to backpropagate with the distance as well as with the steps, then If you remove the repeated addition of noise it must return to it's actual space, rather coming towards centre.",
+          "publishedAt": "2026-02-14T16:55:54Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@mjb4297",
+          "text": "interesting demanding a long shadow at midday when shadows are short",
+          "publishedAt": "2026-02-14T09:34:50Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Reynaldo-or3jc",
+          "text": "I like sora ai but for every video generator that goes wrong, I hate those stupid ai",
+          "publishedAt": "2026-02-14T07:24:03Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@reddutchman5077",
+          "text": "Could it be that you mixed up regular diffusion models with their continuous form? Cause I thought normal diffusion is so slow in generating cause it needs to go over all steps while models with ODE or SDE integration for noise can just jump the noise levels",
+          "publishedAt": "2026-02-13T10:18:21Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@rafaelos6118",
+          "text": "18:08",
+          "publishedAt": "2026-02-12T13:08:01Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@zarzum",
+          "text": "My problem is with the concept of using the existing knowledge base to train these models. By using these models to produce 'art' or 'design' we are undermining the human artists that actually produced the real art and design used to train the original models. These models are flooding the internet with this production of meager, artificial looking stuff. In turn, this newly produced data is used to further train the new models. What is this process converging into? \nThe 'art' and 'design' that will make a mafia wife blush? Welcome to the age of AI.",
+          "publishedAt": "2026-02-11T19:40:03Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@SevenRepublic-rr4er",
+          "text": "these are nice 'demonstrations' but unsatisfying.....it still feels that the total is greater than the sum of the parts and that there's something emergent here that is being missed......lots of sci-fi stories have been written about how a string of computer commands leads mathematically to say, time travel, but its not that the computer is computing time travel....its that the computer has the code to summon a djinn that knows how to control time travel......it seems like there's something vaguely like that going on here",
+          "publishedAt": "2026-02-10T12:58:59Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@outtakontroll3334",
+          "text": "i understand how it works, and still dont understand how it works.",
+          "publishedAt": "2026-02-10T04:11:52Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Czin-r2w",
+          "text": "All is very wonderful but the people like civilization will ended because of pictures of dogs",
+          "publishedAt": "2026-02-06T12:36:48Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@DavidGraeberWasRight",
+          "text": "This is very interesting and useful stuff. But it is not in any way \"intelligence\" which is what alot of evangelists take this for",
+          "publishedAt": "2026-02-02T11:41:50Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@riverstun",
+          "text": "I dont understand much of this, but it sounds a bit like \"simulated annealing\"    (\"Simulated Annealing (SA) is a powerful metaheuristic optimization algorithm, inspired by metal annealing, that finds near-optimal solutions in huge search spaces by mimicking heating and slow cooling, allowing it to escape local minima by probabilistically accepting worse solutions at higher \"temperatures\" (T) and settling into global optima as T gradually decreases.\").    That is, if you dont add the noise, you go straight to a local minimum.  To avoid this, at every step you kick the trajectory, and so it has more chance to explore the full map and find true global optimum.   Am I seeing this correctly?",
+          "publishedAt": "2026-02-01T06:42:07Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@SuperGattan",
+          "text": "magnificence",
+          "publishedAt": "2026-02-01T06:40:15Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@HssunHssun-t3k",
+          "text": "finally got a clear explanation of diffusion models",
+          "publishedAt": "2026-01-27T16:15:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@EvelynD.Pomposa",
+          "text": "the guidance part really cleared things up for me",
+          "publishedAt": "2026-01-27T16:14:59Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@KusumDuhan-v1p",
+          "text": "clustering text and images is wild",
+          "publishedAt": "2026-01-27T16:14:53Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ابومحمد-ظ5ش9س",
+          "text": "omg negative prompts are a game changer 😮",
+          "publishedAt": "2026-01-27T16:14:50Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@wanjirukinyua-n6q",
+          "text": "I appreciate how AICarma helps me filter out noise and focus on what matters for my brand.",
+          "publishedAt": "2026-01-27T16:14:48Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ChizzySmart-u8r",
+          "text": "the math part was kinda heavy but i liked it",
+          "publishedAt": "2026-01-27T13:43:36Z",
+          "likeCount": 0
+        }
+      ]
+    },
+    {
+      "title": "An AI artist explains his workflow",
+      "videoId": "K0ldxCh3cnI",
+      "channelTitle": "Vox",
+      "publishedAt": "2023-05-02T12:00:10Z",
+      "viewCount": 590506,
+      "likeCount": 14400,
+      "comments": [
+        {
+          "author": "@Vox",
+          "text": "Stelfie’s latest selfie? Genghis Khan: https://www.instagram.com/p/CqTa6JpLjZx/?hl=en",
+          "publishedAt": "2023-05-02T14:22:31Z",
+          "likeCount": 122
+        },
+        {
+          "author": "@anisharaujo5379",
+          "text": "Boring video",
+          "publishedAt": "2025-11-18T16:37:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@GlaciusTS",
+          "text": "For the description, you should adjust. It doesn’t take long to make something “good”, it takes long to recreate an actual vision. If you have an idea you want to recreate, that’s what takes time. Control over the output.",
+          "publishedAt": "2025-09-29T15:44:17Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@desmanostrikes5644",
+          "text": "I really want to learn how to use photoshop so I can edit any AI image to change what I want about it and make adjustments.",
+          "publishedAt": "2025-08-22T07:54:32Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@improvementTime10.3.17",
+          "text": "2:44",
+          "publishedAt": "2025-04-19T04:30:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@janemercer8246",
+          "text": "That's a great use of AI! There will be  a lot of haters in the comments, but you are an open-minded person with a strong desire to create. And I appreciate that.",
+          "publishedAt": "2025-04-08T22:04:53Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@LeoGang89",
+          "text": "This is my exact workflow. Ai is a tool, not an artist itself.",
+          "publishedAt": "2024-12-19T12:21:18Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@loadshedding_games",
+          "text": "Couldve just waited for midjourney v6 😂😂",
+          "publishedAt": "2024-11-28T16:52:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@henrique2799",
+          "text": "17 hours to make that? XD lol",
+          "publishedAt": "2024-11-02T15:02:33Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@joshlin50ja",
+          "text": "this guy is wasting countless hours for less than mediocre results. why would you interview him? This is all so weird.",
+          "publishedAt": "2024-10-13T13:25:10Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@whatyoudo9773",
+          "text": "yes this is how AI actually works for artist's presently, not how they are selling its abilities",
+          "publishedAt": "2024-09-28T14:13:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@nicolaharris461",
+          "text": "This is photo-manipulation, not art.",
+          "publishedAt": "2024-09-22T23:36:20Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@SilverSpoon_",
+          "text": "17 hours.\n*1 7  H O U R S*\nI can do something more credible in Photoshop in max, a couple of hours. you're wasting your time.",
+          "publishedAt": "2024-09-16T10:27:10Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@bhavyakukkar",
+          "text": "wow that was a great demonstration from an AI \"artist\"",
+          "publishedAt": "2024-08-22T22:16:09Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@beamNGVehicleReviews-t9y",
+          "text": "bro he aint an artist",
+          "publishedAt": "2024-08-20T11:12:15Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@lakjladjsflasdjf",
+          "text": "AI \"Artist\"",
+          "publishedAt": "2024-07-29T23:07:20Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@Vytelux",
+          "text": "Ai users are NOT artists. Please refrain from referring to them as such.",
+          "publishedAt": "2024-07-18T04:02:06Z",
+          "likeCount": 5
+        },
+        {
+          "author": "@handsomeboi3767",
+          "text": "I hope people will stop ripping on shadversity for his creative use of ai after seeing this video. People who calls themselves artists or be in defense of artists literally said the guy wasn’t an artist even though he had his own human input out into it like the video.",
+          "publishedAt": "2024-07-17T11:56:42Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@Treojan",
+          "text": "\"art\"",
+          "publishedAt": "2024-07-11T22:36:09Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@WHEELPUBLIC",
+          "text": "“Ai Artist” nope their someone who uses ai for art",
+          "publishedAt": "2024-07-02T21:04:14Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@magicdolphin3090",
+          "text": "I can't say im impressed, but as long as these \"artists\" are upfront and realistic about their skill level and how they made the image, I don't see an issue.",
+          "publishedAt": "2024-05-30T17:35:48Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@Adeniyidairo",
+          "text": "Lol this so funny Ai users love to tell you how much time and effort it takes to make Ai generated images. Who are you fooling accept yourself.",
+          "publishedAt": "2024-05-11T04:15:35Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@daiman_SX0",
+          "text": "i thought this was a joke at first because when they show me the sketch, its like 5 years old drawing on a wall like he has no artistic skill or vision at all. On top of that there is no difference than any mass produce AI art I see on the internet even tho it has been edited for 14 hours straight.",
+          "publishedAt": "2024-05-10T20:27:54Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@AbsolutelyJason",
+          "text": "Awesome!",
+          "publishedAt": "2024-05-06T05:23:02Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@SlovakMusicStudio",
+          "text": "still looks bad at the end :D",
+          "publishedAt": "2024-05-02T17:41:21Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@SlovakMusicStudio",
+          "text": "An AI artist, what a joke... I am going to be AI doctor soon :D :D :D",
+          "publishedAt": "2024-05-02T17:40:27Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@omegainkheart",
+          "text": "too much time for a not good result, it's 100 times better study like a concept artist and do it with photobashing",
+          "publishedAt": "2024-05-01T13:56:38Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@heretic600",
+          "text": "Ive heardpeople talk about using Photoshop for things before applying it i stable diffusion, but this is my firsttime seeing it dine. How does it come out of SD so smooth and polished when it was just kinda slapped on imperfectly? Thanks",
+          "publishedAt": "2024-04-30T03:18:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@lanoi3d",
+          "text": "17 hours? You've got to be kidding. This can be done so much faster.",
+          "publishedAt": "2024-04-23T12:13:45Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@SilverRose45",
+          "text": "\"artist\" \n\nso laughable",
+          "publishedAt": "2024-04-19T03:13:13Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@oopsy444",
+          "text": "AI should allow us to be more creative and require less manual labor. This is a great example of it but better examples would be automating more tedious work with even less creativity being needed. art should be the last thing we automate",
+          "publishedAt": "2024-04-16T17:01:56Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@MSouza3d",
+          "text": "Loved that !",
+          "publishedAt": "2024-04-03T05:34:04Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@GalaKrond-b7k",
+          "text": "AI won. luddites lost.",
+          "publishedAt": "2024-03-30T15:27:46Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@l3xitscomplicated191",
+          "text": "\"artist\" pfffff",
+          "publishedAt": "2024-03-29T22:12:25Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@roberttalada5196",
+          "text": "But, your AI art looks horrible",
+          "publishedAt": "2024-03-17T15:06:26Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@camaradavitinho",
+          "text": "This video is an absolute disservice to the entire art community.",
+          "publishedAt": "2024-03-15T19:55:07Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@dangmefinnish",
+          "text": "It's comforting to know that even AI struggles with hands.",
+          "publishedAt": "2024-03-11T14:14:31Z",
+          "likeCount": 31
+        },
+        {
+          "author": "@lijo1830",
+          "text": "looks edited. not good",
+          "publishedAt": "2024-03-07T23:21:48Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@gogetyourgun1490",
+          "text": "The reason why he's able to use AI as a tool rather than a machine that pumps out art is because he knows the fundamentals of art. He knows each & every step & rule in making art. Thus, he knows which rules to break.",
+          "publishedAt": "2024-03-07T19:07:13Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@tonyblast4592",
+          "text": "A \"traditional artist\" who can't even draw a nice thumbnail/rough....no mystery he got excited to jump on the AI train....",
+          "publishedAt": "2024-03-04T17:38:16Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@MorganRG-ej8dj",
+          "text": "That's really cool. Can't say I learned a lot, maybe that I should take pictures of my hands to save me headaches. But still it's really good to see how others use this tool.",
+          "publishedAt": "2024-03-03T01:04:01Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@shupotard",
+          "text": "didnt watch dont care, there no such thing as ai \"ARTIST\" it can be called something else though.",
+          "publishedAt": "2024-02-20T18:41:19Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@ElijahDiaz",
+          "text": "Someone can paint this in less time lol",
+          "publishedAt": "2024-02-07T16:27:39Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@donete95",
+          "text": "This is nothing new, is good ol' photobash. Anyone proficient enough in PS and photo editing can get the same or better results in 2 days of work (aka 16h) so whats really the point of using AI if it clearly struggles a lot with basic anatomy etc. Just learn how to do it yourself, you'll enjoy the process much more.",
+          "publishedAt": "2024-01-31T12:31:26Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@milhouse777",
+          "text": "The correct way of using ai as a tool, not the final output.",
+          "publishedAt": "2024-01-29T15:20:50Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@keithrowsell6847",
+          "text": "lol A.I \"Artist\" XD",
+          "publishedAt": "2024-01-17T14:29:40Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@eddyleast8684",
+          "text": "\"Artist\" ???😁😁😁😁😁",
+          "publishedAt": "2024-01-12T17:06:48Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@asymmetricfuzion970",
+          "text": "Most people are AI artists in the same what that I’m an amature gynocologist\n\nThis guy seems more legit",
+          "publishedAt": "2024-01-10T19:59:03Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Lizard1582",
+          "text": "This guy's also just a photoshop god.",
+          "publishedAt": "2024-01-03T05:30:24Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@briannab4770",
+          "text": "I like that this demonstrates the nuance of AI art. I feel that a lot of people imagine AI art is just typing a prompt and out pops perfect art, and that it's lazy and thoughtless. In actually, when I'm created AI art, it's literally taken hours, and required painstaking editing and refinement, sketching and modeling, specific understanding of all the complicated stuff under the hood, frustrating prompt engineering, and then combing through the image for bizarre distortions and artifacts, then even hand drawing and creating a lot of it, as well as post-production and color grading.\n\nYou CAN just print things out without doing anything, but it generally looks like unfinished garbage.",
+          "publishedAt": "2023-12-26T22:11:53Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@FlinNSteel",
+          "text": "Now this is what I feel like ai ART IS",
+          "publishedAt": "2023-12-03T05:07:14Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@thesea4120",
+          "text": "Or you ould just learn to do digital art, learn to draw and use a bit of photobashing and digital painting?",
+          "publishedAt": "2023-11-28T11:26:54Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@PirateOfTheNorth",
+          "text": "Probably would have saved time with the poses by taking reference photos of the poses then importing them into AI rather than keep regenerating and hoping AI will eventually generate what you envision.",
+          "publishedAt": "2023-11-02T10:28:52Z",
+          "likeCount": 10
+        },
+        {
+          "author": "@thefacelessone74",
+          "text": "Can you believe these new printing presses? they take all the skill out of writing ... this will ruin the industry!",
+          "publishedAt": "2023-10-24T07:51:48Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@ad.rosein",
+          "text": "This is a photobash in the form of text!",
+          "publishedAt": "2023-10-14T19:10:23Z",
+          "likeCount": 9
+        },
+        {
+          "author": "@ad.rosein",
+          "text": "I explain, creative people get pleasure from the creative process, I don't see pleasure here, I only see work.",
+          "publishedAt": "2023-10-14T19:07:57Z",
+          "likeCount": 17
+        },
+        {
+          "author": "@ad.rosein",
+          "text": "To be honest, the work process is insanely boring and does not cause any feelings. The only feeling is that there is more work. WORK....",
+          "publishedAt": "2023-10-14T19:05:16Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@ajlbeer",
+          "text": "Is this a parody?",
+          "publishedAt": "2023-10-12T18:03:33Z",
+          "likeCount": 7
+        },
+        {
+          "author": "@GhaniArjuna",
+          "text": "Artists are people who spend their lives practicing, honing their skills until they reach a certain level, People who just type on a computer ask to be called an artist, never use the word \"artist\" for someone who has never done anything to hone their skills That is an insult to all the artist's hard work so far",
+          "publishedAt": "2023-10-07T22:28:46Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@d3st1nyformerlycean52",
+          "text": "ai artists aren't \"artists\", an artist actually makes efforts in their art, instead of begin fully useless and needing the help of an ai to make the proportions for them.",
+          "publishedAt": "2023-09-07T07:43:11Z",
+          "likeCount": 10
+        },
+        {
+          "author": "@somthinwrong",
+          "text": "AIBro: \"*presses buttons on Kioske, burger and fries comes out* I'm an artist ya'll! :D \"",
+          "publishedAt": "2023-08-04T14:43:29Z",
+          "likeCount": 5
+        },
+        {
+          "author": "@hansa5867",
+          "text": "Yeah, getting nice images from AI is a multi-hour project. However, that's just at the moment, soon it will be a minute project.",
+          "publishedAt": "2023-08-02T13:14:02Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@moon_xwasntavailable",
+          "text": "This is how AI should be used. As an artist, I just don’t agree that the stuff generated from prompts alone is art. AI doesn’t have emotions in its current form, so it cannot include emotions in something to make it art. Art is meant to transfer those feelings and emotions, portray a moment or emotion. AI can’t do that, not without a person using it as a tool to create THEIR artwork. Plus AI art, when it’s just someone typing in some text and it converging it to an image, has a huge problem with what’s basically copying. When a person uses parts of another’s work, they use different references and artworks (it’s generally frowned upon by the community to just copy from one without them giving credit, which AI never does obviously) and they give their own style and emotions to it. They give it meaning and that human touch. AI can’t do that, so it just splices together pieces of other’s hard work to create it’s ‘art’. That’s when it’s stealing.",
+          "publishedAt": "2023-07-28T17:52:52Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@catoftruth1044",
+          "text": "man i cant wait to become an AI lawyer someday....",
+          "publishedAt": "2023-07-15T21:49:19Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@pablo7137",
+          "text": "Still too much time",
+          "publishedAt": "2023-07-09T06:23:46Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@arihaviv8510",
+          "text": "Don't let people on YouTube decide whether or not your work is considered true and correct art because of the process you choose to use",
+          "publishedAt": "2023-07-09T02:55:28Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@icantevendothjsanymrke",
+          "text": "This is just Ai photoshopping lol",
+          "publishedAt": "2023-06-23T05:38:56Z",
+          "likeCount": 5
+        },
+        {
+          "author": "@xemmyQ",
+          "text": "\"art\"",
+          "publishedAt": "2023-06-15T06:05:53Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@roeuth",
+          "text": "Workflow, puke on the keyboard. See what buttons click, generate AI Art.",
+          "publishedAt": "2023-06-04T17:05:14Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@keiththeantihero7960",
+          "text": "man does the bare minimum",
+          "publishedAt": "2023-06-03T02:22:36Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@ricardomegre",
+          "text": "🤢",
+          "publishedAt": "2023-05-31T13:08:11Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@MiranPinarbasi-b2v",
+          "text": "what you using to generate?",
+          "publishedAt": "2023-05-26T08:12:54Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@rebelangel8227",
+          "text": "I find it interesting that the artists who are embracing AI, a lot of them are the ones with a more traditional background. I applaud you for sharing your work flow Im still trying to get control net and the ai to work some where in the middle of my projects and its not easy to get such a chaotic structure to work with you. Its a lot of work to get it done your way. I think a lot of artists who embrace the technology will take things to a whole new level..",
+          "publishedAt": "2023-05-25T08:31:12Z",
+          "likeCount": 7
+        },
+        {
+          "author": "@RyoHazuki224",
+          "text": "Goes to show that as much as people are afraid that \"AI will replace the artist\", well thats not really true because it still takes an artist to direct what they want. AI is a tool, just like anything else.",
+          "publishedAt": "2023-05-23T12:58:32Z",
+          "likeCount": 8
+        },
+        {
+          "author": "@tuclance",
+          "text": "17H!!! i used to do this in 5 minutes in Photoshop 4.0 lol",
+          "publishedAt": "2023-05-23T07:03:53Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@CryinOverSpilledTea",
+          "text": "This is the level of work I have to go through to turn my AI projects into reality. Glad to see others agree this is a fair way to use it.",
+          "publishedAt": "2023-05-20T15:17:33Z",
+          "likeCount": 17
+        },
+        {
+          "author": "@candacemalinowski3447",
+          "text": "STROBING WARNING NEEDED!!! Thanks for the migraine.",
+          "publishedAt": "2023-05-19T23:09:10Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@HeihachiChaolan",
+          "text": "RIP to those who watched this video without subtitles",
+          "publishedAt": "2023-05-17T15:37:14Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@gets0410",
+          "text": "\"Artist\".",
+          "publishedAt": "2023-05-16T13:51:27Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@Schizm1",
+          "text": "There's no such thing as \"AI artist\". \nGood joke tho! I needed a laugh:)",
+          "publishedAt": "2023-05-14T14:30:11Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@saralkumarshrestha",
+          "text": "Stuff neural network can do 😂",
+          "publishedAt": "2023-05-13T13:29:20Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@realmetalhex",
+          "text": "Nice to see this dude not using AI art as a vending machine.",
+          "publishedAt": "2023-05-12T18:22:17Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@santhosh0510n",
+          "text": "Quite Intresting to watch, looks  real",
+          "publishedAt": "2023-05-12T09:27:03Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@Kyncaid84",
+          "text": "great work!",
+          "publishedAt": "2023-05-11T13:46:20Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@jmalla6656",
+          "text": "0:58 They really expect us to believe he has 20 years of art experience with that sketch? He literally can't draw. 😂 \r\n\r\nIt's like they picked up some random dude on the AI hype train. Vox needs to step up their game.",
+          "publishedAt": "2023-05-11T02:37:05Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@leifdux7277",
+          "text": "idk what happened",
+          "publishedAt": "2023-05-11T01:16:11Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@emanuelferreira5877",
+          "text": "Still not real art",
+          "publishedAt": "2023-05-10T21:50:40Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@KKris10",
+          "text": "someone good at photoshop could do this way better using real images to mess around with, the AI stuff seems like it's making it harder tbh",
+          "publishedAt": "2023-05-10T13:56:21Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@georgedownesmedia",
+          "text": "It would be quicker to ask an AI model to build a time machine, then go back in time and get Muhammed Ali to punch you in the face and take a selfie. Then you could arrive back a few seconds before you even conceived the idea in the present and then you would have achieved it in negative time. But then you might get caught in an anti-time loop because without conceiving the idea to create the image in the first place, you wouldn't have gone back in time at all so then the question would be, would you even exist in the present? Alternatively the punch could have given you a brain injury that caused memory loss and then you would have forgotten who you are and the reason you were there and so you'd be stuck in the past and not even get to finish creating the image. There are pros and cons to this method. I hope everyone knows I'm being deadly serious about this. And also not really.",
+          "publishedAt": "2023-05-10T11:25:37Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@theskeletonboi",
+          "text": "As someone who works with Stable Diffusion, this man is working very inefficiently. It should not take that much out/in painting and steps to create what he was looking for. But if it works it works I guess, and the results are nice.",
+          "publishedAt": "2023-05-10T08:11:53Z",
+          "likeCount": 5
+        },
+        {
+          "author": "@whynotanyting",
+          "text": "I came to the realization not too long ago that my initial gripe with AI isn't it's use to further understanding and experimentation, but replacing current artist's work. Yes, you can create your own art, but is entering Greg Rutowski into the prompt, is it really yours?\n\nFor some reason generating code with ChatGPT doesn't give off the same vibe as entering text to generate a painting. It's more what you do with it, and the potential for people to abuse the system to get around commissioning artists is abhorrent. The reason being is that you hire artist for the final product. Whereas you hire programmers for the logic, which is a process to reach the final product.",
+          "publishedAt": "2023-05-10T07:22:16Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@mjclemente7203",
+          "text": "Nfts Ai the death of art and creativity",
+          "publishedAt": "2023-05-09T23:15:14Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@Unhomiee",
+          "text": "Euler, named after Leonhard Euler is actually pronounced closer to \"Oil-er\"",
+          "publishedAt": "2023-05-09T21:44:53Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@MightGuy15",
+          "text": "Ai artist lol",
+          "publishedAt": "2023-05-09T20:22:07Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@teresmajor7956",
+          "text": "AI Director, not artist. In art you create visuals, in AI you direct them. In this workflow that gap is almost close though so hats off.",
+          "publishedAt": "2023-05-09T20:12:41Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@MrUzminiNu",
+          "text": "not 41 years old, he's more like 61!",
+          "publishedAt": "2023-05-09T17:05:44Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@chiabingyou2798",
+          "text": "well, i agree with ai being used as a tool, i just mainly see ai art as a whole new section compared to human art. \n i think yea it helps with putting out ideas and develop skills such as photoshoping, and finding images on google. \nbut if you put them to compare to a real artist, maybe van gogh or somebody created ww2, you could be missing out on finding your real art style that you develop in the long run that i think even creating thousands of 17hour ai art piece will not replace. but i get it, nobody has time or patience for practicing art\n\ni am a artist myself and i draw with pen and paper. so i kinda know how much time to learn art. so i really have greater respect towards human artist. sorry, this is sorta a rant, i still have some more opinions on ai art not just this one opinion . yeah ai art have its pros and cons. this vid really gave a lot of insights on ai arts that made me wanna type stuff in yt comments",
+          "publishedAt": "2023-05-09T16:07:10Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@SnowballAI",
+          "text": "Amazing workflow! Thank you for sharing.",
+          "publishedAt": "2023-05-09T15:03:42Z",
+          "likeCount": 7
+        },
+        {
+          "author": "@ezekielorji5053",
+          "text": "It's called photobashing",
+          "publishedAt": "2023-05-09T14:06:05Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@grapes753",
+          "text": "Oe you can just straight up draw it, much quicker",
+          "publishedAt": "2023-05-09T13:28:24Z",
+          "likeCount": 0
+        }
+      ]
+    },
+    {
+      "title": "Using AI In Your Design Process (MidJourney, Stable Diffusion, Vizcom) - AI FOR INDUSTRIAL DESIGN",
+      "videoId": "2yI0zBnH2bk",
+      "channelTitle": "AkshayCreates",
+      "publishedAt": "2023-02-12T22:12:20Z",
+      "viewCount": 41145,
+      "likeCount": 1283,
+      "comments": [
+        {
+          "author": "@DriventoDraw",
+          "text": "Nice job Akshay! I enjoyed this. Been experimenting with Vizcom quite a bit. Powerful tool.  It will be interesting to see how they take this phase to the product feasibility stage. A lot rests on the designers understanding of part complexity, costs, manufacturing constraints, etc, to bring the product to reality. Very good video.",
+          "publishedAt": "2024-08-28T03:01:38Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@triciasada5383",
+          "text": "you deserve a lot more views, this is really great content to help industrial designers.",
+          "publishedAt": "2023-12-06T06:05:08Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@jimjohngirard",
+          "text": "You took a sketch you did and \"Popped it into MidJourney.\"  I still haven't figured out how to do this.  I drag and drop, I try to upload....and what is the prompt for img2img.....great video, but really low on \"how to do details.\"",
+          "publishedAt": "2023-10-02T15:58:01Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ciliosrainha",
+          "text": "Thank you",
+          "publishedAt": "2023-07-20T21:30:37Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@nesd6595",
+          "text": "but my UI doesn't look like your. what happen?",
+          "publishedAt": "2023-05-12T18:49:33Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@PJHamann1",
+          "text": "Hilarious thinking that designers will get to participate in the decision making process of whether we are worth the cost when AI can generate endless concepts.",
+          "publishedAt": "2023-05-12T11:26:59Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@davidsaead123",
+          "text": "The non-creative portion of the design process has been better done by a computer for the past 5-10 years. This shows that high-end photoshop rendering has been and is a waste of time. The “doing” part of the design has always been a commodity. The thinking creatively to understand WHY someone needs the thing and filtering that through the details of HOW and at WHAT COST has always been the high value portion of the industrial design skill set. Add to this your own perspective on what makes a thing beautiful in its context. AI doesn’t have an original opinion. It selects from commonly accepted norms to derive “opinions” at least for now.",
+          "publishedAt": "2023-04-27T13:14:44Z",
+          "likeCount": 4
+        },
+        {
+          "author": "@knackdesignstudio3543",
+          "text": "Thank you, Akshay!! Super helpful overview of the current AI landscape for ID",
+          "publishedAt": "2023-04-21T18:44:41Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@LHK-art",
+          "text": "It will get to a point that anyone can potentially be a designer, the crafting process will be gone.  In the future \"professionals\" need to be generalists.  I feel AI and the web 3.0 are built to decentralize experts and middle-persons.",
+          "publishedAt": "2023-03-25T23:30:20Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@funybnuy",
+          "text": "or, here me out, you get better at being an artist on your fucking own and not use an image blender to fake it.",
+          "publishedAt": "2023-03-21T04:11:59Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@jarvis9181",
+          "text": "Don't call yourself a designer if u r using AI.",
+          "publishedAt": "2023-03-18T02:22:58Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@icluedesigner",
+          "text": "Disruptive Paradigm shifting has been arising  in traditional industrial design area.  Thanks for the detail information.",
+          "publishedAt": "2023-03-16T20:09:00Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@아싸라비아",
+          "text": "Thanks for good video,so inspired~",
+          "publishedAt": "2023-03-08T01:25:10Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@mikei2322",
+          "text": "'promosm' 😎",
+          "publishedAt": "2023-03-06T12:27:04Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@onkarpatil2794",
+          "text": "What do you think about AI replacing designers in automotive parts design and all little tolerances and minute details that a human designer provided ??",
+          "publishedAt": "2023-03-05T17:07:04Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@NIXO3D",
+          "text": "What's the difference in the future between Marcello Gandini (that designed Lamborghini Miura, Countach, and the Lamborghini Diablo) and a 12-year-old kid who can generate Thousand stunning supercar designs in seconds with AI just by writing a /imagine Prompt: supercar, high-details, 3d model, octane render, ... ?",
+          "publishedAt": "2023-02-25T17:12:19Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@Junior_FL",
+          "text": "Thank you, Akshay! Very educational! Thank you for curating the AI workflow!",
+          "publishedAt": "2023-02-16T05:24:01Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@MrMaheshkamat",
+          "text": "Proud of you. Very good.",
+          "publishedAt": "2023-02-15T04:37:59Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@robinpatil491",
+          "text": "Insane!! 💯💯",
+          "publishedAt": "2023-02-14T04:21:47Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@arundhatisarkar8250",
+          "text": "Love how the video was made, very engaging, also I got low-key anxiety about how far AI has come. I need to start engaging with AI tools (that will help me in my work.)",
+          "publishedAt": "2023-02-13T13:09:45Z",
+          "likeCount": 3
+        },
+        {
+          "author": "@akshaytaraopulugurtha6053",
+          "text": "Love this! It’s so insightful.",
+          "publishedAt": "2023-02-13T06:11:05Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@BlurredKap",
+          "text": "Great video! Super informative",
+          "publishedAt": "2023-02-12T23:44:45Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@rigvedlinkedin",
+          "text": "Wow! Never knew that text to image generators worked with references too. Thanks a ton for the tip and info! 💯",
+          "publishedAt": "2023-02-12T22:38:38Z",
+          "likeCount": 2
+        }
+      ]
+    },
+    {
+      "title": "AI Image Diffusion Explained in 50 Seconds",
+      "videoId": "cIKIpaIZdnw",
+      "channelTitle": "Till Musshoff",
+      "publishedAt": "2023-07-02T13:28:45Z",
+      "viewCount": 38436,
+      "likeCount": 1023,
+      "comments": [
+        {
+          "author": "@tillmusshoff",
+          "text": "Full video on how I made my own Anime with AI image tools: https://youtu.be/UiQKiSRzXqg",
+          "publishedAt": "2023-07-02T13:02:26Z",
+          "likeCount": 9
+        },
+        {
+          "author": "@Tomahawk1999",
+          "text": "we basically first fck up what was absolutely fine and then try to desperately unfck it with limited success",
+          "publishedAt": "2026-01-25T13:05:08Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Opiskelija-d4t",
+          "text": "so basically same stuff as audio mixing but on images. thanks this helped a lot",
+          "publishedAt": "2026-01-12T08:47:57Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@DTheDingDing",
+          "text": "That's such an important explaination",
+          "publishedAt": "2025-11-20T12:33:00Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@osho_magic",
+          "text": "Don’t mislead. Please with few info ,, u till unless it’s complete knowledge it’s misleading and feed imaginary concepts",
+          "publishedAt": "2025-06-07T04:55:06Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@ocelot420_69",
+          "text": "It takes the image, scrambles and unscrambles it a little different is essentially what you just said. That sounds like what comes out is then a derivative image.",
+          "publishedAt": "2024-10-23T06:10:48Z",
+          "likeCount": 10
+        },
+        {
+          "author": "@drednac",
+          "text": "I still don't get it :D",
+          "publishedAt": "2024-02-28T20:18:02Z",
+          "likeCount": 19
+        }
+      ]
+    },
+    {
+      "title": "How Stable Diffusion Works #generativeai #stablediffusion #diffusionmodel #ai #shorts",
+      "videoId": "WTGzSymTAWM",
+      "channelTitle": "AltexSoft | TravelTech, AI & Software Engineering",
+      "publishedAt": "2023-12-11T16:21:16Z",
+      "viewCount": 25424,
+      "likeCount": 456,
+      "comments": [
+        {
+          "author": "@TheResilientOak",
+          "text": "Both methods are how we as humans learn to draw. Diffusion in life drawing is gestures and shapes. Pulling out detail on top of the structure. Gan is your life drawing mentor constructively criticizing you into a direction or style. Fascinating!!",
+          "publishedAt": "2025-12-25T20:07:24Z",
+          "likeCount": 2
+        }
+      ]
+    },
+    {
+      "title": "Generate AI Images Without Paying A Dime | Stable Diffusion Tutorial",
+      "videoId": "CWoZbpgL0aw",
+      "channelTitle": "Clear",
+      "publishedAt": "2025-11-26T11:14:57Z",
+      "viewCount": 11385,
+      "likeCount": 275,
+      "comments": [
+        {
+          "author": "@clearonyoutube",
+          "text": "This video shows Stable Diffusion step-by-step installation through creating images with text prompts. Try the steps, paste a prompt you want improved, or ask any install/troubleshoot question below and we'll help. Links and timestamps are in the description.",
+          "publishedAt": "2025-11-26T12:55:09Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@kadaramcityhd1992",
+          "text": "why didnt you use a1111",
+          "publishedAt": "2026-04-29T07:33:29Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@TaintedEchoez",
+          "text": "Linked expired and doesnt work",
+          "publishedAt": "2026-04-23T19:12:27Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Superman-d2b6c",
+          "text": "Stable Diffusion which version should we use",
+          "publishedAt": "2026-04-10T07:59:12Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Art_Hive",
+          "text": "FRUSTRATED - PLEASE GIVE GENUINE ANSWER - IF I WANT TO GENERATE A LARGE ART WORK REPLICATION - THE MIDJOURNEY, FLUX 2 MAX, CHAT GPT, GEMINI ALL IS CHEATING BY LOOTING MONEY.... AFTER SUBSCRIPTION THEY GIVE PERFECT OUTPUT ONLY 2 OR 3 TIMES THEN THEY WILL SILENTLY KILL MIND AND WASH OUT DAILY QUATA EVEN IF THEY WASTE COMPUTING POWER NO MATTER JUST BUY CREDITS AND DO WORK, BUT IN REAL WORLD THEY WILL SQUEEZE OUR PROMPTING 🧠 BRAIN AND MONEY, never reply or mind us they need money only.... I gave only production level prompts always but these platforms are cheating every common users",
+          "publishedAt": "2026-04-02T15:55:01Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ProudAmerlican",
+          "text": "Can I do something like this on my laptop?",
+          "publishedAt": "2026-02-27T00:50:28Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ChumC-j9l",
+          "text": "Hi do you know of a text-to-video program that runs like this",
+          "publishedAt": "2026-02-23T20:15:23Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@GrumpyWolfTech",
+          "text": "I hit generate, the bar starts to load then just stops and goes back to the generate screen, what am I doing wrong?",
+          "publishedAt": "2026-02-16T09:03:59Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@MELONDUCK306",
+          "text": "would this work well on an rtx 5060ti 16gb?",
+          "publishedAt": "2026-02-07T11:28:30Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@navidtaji",
+          "text": "What are the LOWEST GPU where Stable Diffusion can run?",
+          "publishedAt": "2026-01-02T19:37:01Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Joshua-ju5uc",
+          "text": "Problem. I downloaded everything perfectly but it's not generating images. My computer has everything I need to run the program. \nPlease help",
+          "publishedAt": "2025-12-18T18:44:36Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@CorsarioTV",
+          "text": "Nice video !, just a question, how i can download and install more \"Presets\"/\"Models for stable difussion?",
+          "publishedAt": "2025-12-18T05:31:04Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Joshua-ju5uc",
+          "text": "please continue the Tutorial videos",
+          "publishedAt": "2025-12-15T21:31:52Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@inchproductions9069",
+          "text": "Im learning something new everyday. Thank you so much for this breakdown. ♥️",
+          "publishedAt": "2025-12-05T14:03:15Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@dilshanbasnayake1086",
+          "text": "This is brilliant! Can we also have a video explaning the downsides of using open source platforms?",
+          "publishedAt": "2025-11-26T11:46:35Z",
+          "likeCount": 1
+        }
+      ]
+    },
+    {
+      "title": "Logo Design Process with Stable Diffusion, Photoshop, and Illustrator",
+      "videoId": "ZyDOtshP48s",
+      "channelTitle": "pixaroma",
+      "publishedAt": "2024-05-22T15:00:24Z",
+      "viewCount": 7179,
+      "likeCount": 397,
+      "comments": [
+        {
+          "author": "@Gabi_G_77",
+          "text": "Amazing! Your videos make my creative process easier! I hope you will have the time and nerve to continue creating quality content like before... I've learned a lot thanks to this channel and I'm just getting started...RESPECT! 😉👍",
+          "publishedAt": "2025-11-15T10:46:57Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@daveys",
+          "text": "Very impressive",
+          "publishedAt": "2025-04-14T21:37:17Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@PabloDiCarlo",
+          "text": "great tutorial, i'd take a lot of valuable things!",
+          "publishedAt": "2024-09-22T23:30:27Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Jeanjean-nq8lk",
+          "text": "It's very helpful, thanks again for sharing",
+          "publishedAt": "2024-08-30T03:28:51Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@user-fo9ce3hr5h",
+          "text": "hi bro, what is you gpu and how much take to generate image with it in 1024 - 25 step approximatly?",
+          "publishedAt": "2024-08-19T06:25:55Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@phyllisfu1134",
+          "text": "Hello, may I ask where can I find the checkpoint juggernaut_X_Rundiffusion, is the checkpoint “juggernaut…” help to soften the shape or is the prompt helps?",
+          "publishedAt": "2024-08-18T12:26:50Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@olegfischer1285",
+          "text": "Your videos are great example that AI is a helpful tool and no replacement for artist/designer",
+          "publishedAt": "2024-05-23T10:50:41Z",
+          "likeCount": 7
+        },
+        {
+          "author": "@SadBirdStillSinging",
+          "text": "Yoy are amazing bro, keep up the good work!",
+          "publishedAt": "2024-05-23T03:45:51Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ArrowKnow",
+          "text": "Another excellent video showcasing how to use AI as a tool in your creative workflow! Keep 'em coming! SO useful.",
+          "publishedAt": "2024-05-22T18:16:56Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@archireel_be",
+          "text": "Always interesting videos for sure. I learned a lot from this one. Thanks for sharing your complete process",
+          "publishedAt": "2024-05-22T17:34:02Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@automation-tribe",
+          "text": "Great video as usual. Thank you for your awesome work",
+          "publishedAt": "2024-05-22T16:56:37Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@jasonstetsonofficial",
+          "text": "you are the best!!!!!!!!!!",
+          "publishedAt": "2024-05-22T16:16:57Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@thevaultedworkshop765",
+          "text": "Great content, dense and insightful !",
+          "publishedAt": "2024-05-22T15:48:22Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@NotThatOlivia",
+          "text": "so much work ... and AI is not very helpful here",
+          "publishedAt": "2024-05-22T15:39:40Z",
+          "likeCount": 0
+        }
+      ]
+    },
+    {
+      "title": "Speed Art with Stable Diffusion Forge UI &amp; Photoshop",
+      "videoId": "8vFAyd8uqng",
+      "channelTitle": "pixaroma",
+      "publishedAt": "2024-03-26T16:05:50Z",
+      "viewCount": 6053,
+      "likeCount": 289,
+      "comments": [
+        {
+          "author": "@salamburhan8617",
+          "text": "amazing",
+          "publishedAt": "2025-11-04T00:44:41Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@darkrhodes6564",
+          "text": "If anyone ever says AI Art is Easy and none creative, I will refer them to this Video. Damn Dude, that was a lot of work and the Result was Wicked. I just Started my AI Journey and am looking forward to learning from your Youtube Video's Thanks.",
+          "publishedAt": "2025-02-14T00:26:34Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@FlavioJ-q4p",
+          "text": "Amazing video!",
+          "publishedAt": "2025-01-18T15:58:49Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ed2fun",
+          "text": "Very interesting to watch, your short explanations let me understand the process and give me an idea how I could do it, thank you for sharing it.",
+          "publishedAt": "2024-12-03T01:59:42Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ashan725",
+          "text": "your amazing",
+          "publishedAt": "2024-11-24T07:36:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@BoeserBen",
+          "text": "awesome work you did here! i like the idea of taking a small part out and refining it with img to img, never thought about such a way :D",
+          "publishedAt": "2024-11-03T07:27:14Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@VaiVaivai-p6e",
+          "text": "Created this account just to subscribe to you <3 We need a tutorial from DP Animation maker side! Subscribed.",
+          "publishedAt": "2024-10-27T21:53:09Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ВладиславАндреев-о7о",
+          "text": "It's amazing!!!\nDo you have full video?",
+          "publishedAt": "2024-10-17T19:12:19Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ademkX",
+          "text": "Awesome art! if you excuse me, i would like to learn the name of music while you were painting the dragon =) Great Art!",
+          "publishedAt": "2024-05-16T16:29:30Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@KevlarMike",
+          "text": "Damn, wish I had the patience cause that’s amazing",
+          "publishedAt": "2024-05-09T17:46:29Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@olegfischer1285",
+          "text": "Learned few new things, Thank you!",
+          "publishedAt": "2024-04-28T17:10:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Be_luck",
+          "text": "Awesome!! ❤",
+          "publishedAt": "2024-04-16T17:09:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@BlenderBuzz",
+          "text": "more like this! New subscriber :)",
+          "publishedAt": "2024-04-11T00:46:33Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@baheth3elmy16",
+          "text": "Amazing video! I enjoyed watching every second of it. You have an amazing talent and technical knowledge. Very impressive results. Both your technical tutorials and art generation videos are amazing!",
+          "publishedAt": "2024-04-01T12:14:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@superdrew907",
+          "text": "Another banger from my Boi Pixaroma music most excellent.",
+          "publishedAt": "2024-04-01T09:18:38Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@pablodave607",
+          "text": "How do you edit a section of the image and then turn it back to full res like you do?",
+          "publishedAt": "2024-03-29T23:51:32Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@hexdump8590",
+          "text": "Awesome video. Thanks a lot. Is there any way to create the subjects in separated layers and use stable diffusion to do the blending?.This would be great for gamedev. Any tip would be greatly appreciated.",
+          "publishedAt": "2024-03-29T12:48:29Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@m.a6416",
+          "text": "Hope you came a tutorial for training a model using real images in forge. I tried using some older A1111 videos but the results are very rigid. I used my own photos, took side profiles shots etc but not sure where the issue is",
+          "publishedAt": "2024-03-28T04:41:13Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@OnlyBackgrounds",
+          "text": "Nice! Would love to see more,",
+          "publishedAt": "2024-03-27T18:03:09Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@sambarjunk",
+          "text": "I like this workflow",
+          "publishedAt": "2024-03-27T01:25:38Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@brodull1142",
+          "text": "Can you give me advice for inpainting setting in Forge because unlike Fooocus, there's a lot of mismatch if you selected the Denoising strength above 0,7 and less detail if below that",
+          "publishedAt": "2024-03-27T00:10:06Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@prosperincode",
+          "text": "love this process, so relaxing and insightful. I think you can have a second channel of just speedart, with some relaxing or epic music in the background depending on the art and you can reference this channel if people want to learn the technical aspects. just a thought.",
+          "publishedAt": "2024-03-26T22:47:11Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@ortizgab",
+          "text": "Great demonstration!!! Please keep them coming!",
+          "publishedAt": "2024-03-26T21:22:49Z",
+          "likeCount": 2
+        },
+        {
+          "author": "@Stick3x",
+          "text": "I am loving forge.",
+          "publishedAt": "2024-03-26T21:02:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@guy.incognito",
+          "text": "Great! Very inspiring!",
+          "publishedAt": "2024-03-26T20:12:07Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@sait6666",
+          "text": "Quite inspirational, thanks for taking the time to share :)",
+          "publishedAt": "2024-03-26T20:00:40Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@sb6934",
+          "text": "Thanks!",
+          "publishedAt": "2024-03-26T19:54:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@atallahahmed9983",
+          "text": "Nice work ,but the fire animation i just do not like it , sorry",
+          "publishedAt": "2024-03-26T17:36:27Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@makadi86",
+          "text": "I find great enjoyment in each moment of your content on that channel",
+          "publishedAt": "2024-03-26T17:00:23Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@UmarandSaqib",
+          "text": "Love it! <3",
+          "publishedAt": "2024-03-26T16:54:15Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@automation-tribe",
+          "text": "Thank you so much for this insightful journey, pixaroma! I'm absolutely thrilled by the dragon artwork and the seamless blend of AI and Photoshop. Eager for more!",
+          "publishedAt": "2024-03-26T16:25:41Z",
+          "likeCount": 2
+        }
+      ]
+    },
+    {
+      "title": "Spaceship Design Process with Stable Diffusion &amp; Photoshop",
+      "videoId": "3H9QWBi6hHk",
+      "channelTitle": "pixaroma",
+      "publishedAt": "2024-05-28T14:35:29Z",
+      "viewCount": 4332,
+      "likeCount": 200,
+      "comments": [
+        {
+          "author": "@pixaroma",
+          "text": "If you have any questions you can post them in Pixaroma Community Group https://www.facebook.com/groups/pixaromacrafts/\r\nor Pixaroma Discord Server https://discord.gg/a8ZM7Qtsqq",
+          "publishedAt": "2024-05-31T04:02:09Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Gabi_G_77",
+          "text": "Amazing! Thank you! Respect! 😉👍",
+          "publishedAt": "2025-11-15T10:22:28Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@edRookNoc",
+          "text": "Is it possible to doing same thing with comfyui? I use both but I feel öore comfortable in SD when Im trying image2image stuff.",
+          "publishedAt": "2025-10-16T15:08:28Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Captain.Fantastic",
+          "text": "I love this. I'm trying to learn AI image generation and I see there's a tutorial series on SD and a more recent one on ComfyUI. Is it worth learning SD, or should I move straight on to the more recent ComfyUI tutorials? Can ComfyUI do everything that SD can do? I'm particularly interested in transforming sketches into detailed pictures, like this tutorial shows.",
+          "publishedAt": "2025-03-31T10:32:22Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@MohamedElHanoun",
+          "text": "Thanks this channel is A Gem 💎",
+          "publishedAt": "2024-11-03T15:09:51Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@johnlin6121",
+          "text": "Invaluable! Thanks.",
+          "publishedAt": "2024-06-11T09:37:20Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Cachos8",
+          "text": "Hey, i just want to ask why u using Forge instead of Automatic1111",
+          "publishedAt": "2024-06-07T18:42:21Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@babbsart4",
+          "text": "This is amazing! Thanks for sharing!",
+          "publishedAt": "2024-05-30T05:53:32Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@ArrowKnow",
+          "text": "Loving these practical application of AI videos! Very useful!",
+          "publishedAt": "2024-05-29T07:46:43Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@59Marcel",
+          "text": "Thats quite amazing thank you.",
+          "publishedAt": "2024-05-29T00:15:55Z",
+          "likeCount": 1
+        },
+        {
+          "author": "@MythosMachine369",
+          "text": "How do I update Forge? I installed it months ago and whenever I run the update.bat  it says it's already up-to-date. Is that accurate?",
+          "publishedAt": "2024-05-28T22:56:43Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Knightstrikes",
+          "text": "I like how you put your logo in the spaceship. Great logo and even better tutorial. Thank you sir.",
+          "publishedAt": "2024-05-28T21:28:45Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@archireel_be",
+          "text": "Beautiful content. This is amazing as usual",
+          "publishedAt": "2024-05-28T20:02:30Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@automation-tribe",
+          "text": "Great tutorial! Love the spaceship design process. Keep creating awesome content!",
+          "publishedAt": "2024-05-28T15:06:24Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@mimozastudio",
+          "text": "very good tutorial. I love it",
+          "publishedAt": "2024-05-28T15:02:35Z",
+          "likeCount": 0
+        },
+        {
+          "author": "@Gmlt3000",
+          "text": "TNX!\n Question close to ur topic - Do u know how to update building controlnet in Forge? There is new preprocessor ANYLINE (u can use its MistoLine SDXL model with lineart, but native processor is better as i saw).",
+          "publishedAt": "2024-05-28T14:54:03Z",
+          "likeCount": 0
+        }
+      ]
+    },
+    {
+      "title": "DrawTube Houkiboshi - Making Timelapse #pixiv #illustration #drawtube",
+      "videoId": "C4wCIwhbgn8",
+      "channelTitle": "pixiv",
+      "publishedAt": "2024-06-25T01:00:09Z",
+      "viewCount": 3313,
+      "likeCount": 359,
+      "comments": []
+    }
+  ]
+}
